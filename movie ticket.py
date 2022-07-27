@@ -1,6 +1,4 @@
-name = str(input("Enter your name: "))
-movies = ["Licorice Pizza", "Top Gun: Maverick", "The Batman"]
-print("Now Showing: ", movies)
+print("WELCOME TO INDIGO THEATRES", "\n")
 movie = str(input("Enter the movie you want to watch: "))
 if movie == movies[0]:
     time_lp = {
